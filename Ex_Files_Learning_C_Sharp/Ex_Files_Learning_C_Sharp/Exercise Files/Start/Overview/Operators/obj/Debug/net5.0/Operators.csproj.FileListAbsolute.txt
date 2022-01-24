@@ -1,0 +1,16 @@
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net5.0\Operators.exe
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net5.0\Operators.deps.json
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net5.0\Operators.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net5.0\ref\Operators.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\bin\Debug\net5.0\Operators.pdb
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net5.0\Operators.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net5.0\ref\Operators.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net5.0\Operators.pdb
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache

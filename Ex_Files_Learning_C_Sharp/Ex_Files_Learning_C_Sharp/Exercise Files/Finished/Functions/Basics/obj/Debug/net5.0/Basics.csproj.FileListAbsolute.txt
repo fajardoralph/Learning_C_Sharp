@@ -1,0 +1,16 @@
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.exe
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.deps.json
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.runtimeconfig.json
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.runtimeconfig.dev.json
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\ref\Basics.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\bin\Debug\net5.0\Basics.pdb
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.csproj.AssemblyReference.cache
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.AssemblyInfoInputs.cache
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.AssemblyInfo.cs
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.csproj.CoreCompileInputs.cache
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\ref\Basics.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.pdb
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Functions\Basics\obj\Debug\net5.0\Basics.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.exe
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.deps.json
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.json
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.dev.json
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\ref\VarsAndData.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.pdb
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.AssemblyReference.cache
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfoInputs.cache
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfo.cs
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.CoreCompileInputs.cache
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\ref\VarsAndData.dll
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.pdb
+D:\Shamx\works2022\Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.genruntimeconfig.cache
